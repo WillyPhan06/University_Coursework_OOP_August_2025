@@ -5,8 +5,6 @@
 This repository contains my **Object-Oriented Programming coursework** for the University of Greenwich (August 2025).  
 It’s a **Tkinter-based Jukebox Simulation** built in Python, allowing users to **view, search, filter, create playlists, update tracks, and play music** with cover images and audio.
 
-For full technical documentation, including system design diagrams, innovations, and detailed testing results, see the [📄 Project Report](./OOP_CW_GCS240359_Phan_Tuan_Bao.pdf).
-
 ---
 
 ## 📦 Features
@@ -33,7 +31,7 @@ For full technical documentation, including system design diagrams, innovations,
 
 ## 📂 Project Structure
 
-
+```bash
 University\_Coursework\_OOP\_August\_2025/
 ├── single\_gui.py             # Main entry point (launch from here)
 ├── view\_tracks\_tab.py        # View/Search/Filter tab
@@ -49,6 +47,7 @@ University\_Coursework\_OOP\_August\_2025/
 ├── test\_library\_item.py      # Unit tests for model classes
 ├── requirements.txt          # Project dependencies
 └── OOP\_CW\_GCS240359\_Phan\_Tuan\_Bao.pdf  # Full coursework report
+````
 
 ---
 
