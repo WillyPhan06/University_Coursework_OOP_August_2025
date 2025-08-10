@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🎵 Jukebox Simulation – University OOP Coursework
 
 This repository contains my **Object-Oriented Programming coursework** for the University of Greenwich (August 2025).  
