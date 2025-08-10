@@ -45,8 +45,7 @@ University\_Coursework\_OOP\_August\_2025/
 ├── track\_images/             # Cover images
 ├── track\_sounds/             # Audio files
 ├── test\_library\_item.py      # Unit tests for model classes
-├── requirements.txt          # Project dependencies
-└── OOP\_CW\_GCS240359\_Phan\_Tuan\_Bao.pdf  # Full coursework report
+└── requirements.txt          # Project dependencies
 ````
 
 ---
