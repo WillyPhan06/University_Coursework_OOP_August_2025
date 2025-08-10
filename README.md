@@ -33,7 +33,6 @@ For full technical documentation, including system design diagrams, innovations,
 
 ## 📂 Project Structure
 
-```
 
 University\_Coursework\_OOP\_August\_2025/
 ├── single\_gui.py             # Main entry point (launch from here)
@@ -50,8 +49,6 @@ University\_Coursework\_OOP\_August\_2025/
 ├── test\_library\_item.py      # Unit tests for model classes
 ├── requirements.txt          # Project dependencies
 └── OOP\_CW\_GCS240359\_Phan\_Tuan\_Bao.pdf  # Full coursework report
-
-````
 
 ---
 
@@ -109,7 +106,6 @@ Run the included unit tests:
 python test_library_item.py
 ```
 
-> Full GUI test plans and results are documented in the [project report](./OOP_CW_GCS240359_Phan_Tuan_Bao.pdf).
 
 ---
 
@@ -117,8 +113,5 @@ python test_library_item.py
 
 This project was developed for academic purposes as part of my university coursework.
 You’re welcome to explore, but please **do not plagiarize** for academic submissions.
-
----
-
 
 
